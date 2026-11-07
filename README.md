@@ -4,7 +4,7 @@
 
 The TomatoCube IR & Magnet Polarity Tester is a handheld test tool built around Microchip's ATtiny1614 microcontroller with a 16x2 HD44780 LCD. Point an infrared remote at its IR sensor and any received IR datagram is shown on screen; press the button for secondary details on the received datagram. Bring a magnet near the Hall effect sensor and the tester displays which pole, North or South, is facing it. The firmware is built in Arduino using megaTinyCore.
 
-<img src="Images/TomatoCube IR & Magnet Polarity Tester.png" width="700" height="auto"/>
+<img src="images/TomatoCube IR & Magnet Polarity Tester.png" width="700" height="auto"/>
 
 
 
@@ -53,6 +53,6 @@ The firmware is an Arduino sketch built with [SpenceKonde](https://github.com/Sp
      
 
 ## (d) Showcase
-<img src="Images/Front.jpg" width="700" height="auto"/>
+<img src="images/Front.jpg" width="700" height="auto"/>
 
-<img src="Images/Back.jpg" width="700" height="auto"/>
+<img src="images/Back.jpg" width="700" height="auto"/>
